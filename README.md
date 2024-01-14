@@ -5,12 +5,14 @@ I have created some automation scripts which might help you in your recon journe
 Please correct me if I am wrong and we will be happy to learn together.
 
 Big thanks to g0lden and ars0n who insipred me to write this scripts.
+https://www.youtube.com/@g0lden1
+https://www.youtube.com/@rs0n_live
 
 :)
 
 -----------------------------------------------------------------------------------------------------
 
-#Automation Recon scripts#
+# Automation Recon scripts
 
 First create a traget folder, create roots.txt and put all your root domains which you want to do recon. 
 
