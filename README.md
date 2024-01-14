@@ -18,15 +18,15 @@ First create a traget folder, create roots.txt and put all your root domains whi
 
 Then on the script will find the tragest and enumeration on it.
 
-1.)First run domains.sh which will create two files alldomains.txt and masscan.txt
+1.) First run domains.sh which will create two files alldomains.txt and masscan.txt
 
-2.)Second run resolve.sh which will resolve all the domains and sort them into resolveddomains.txt
+2.) Second run resolve.sh which will resolve all the domains and sort them into resolveddomains.txt
 
-3.)Third run webserver.sh which will find alive hosts with help of httpx and put them into livedomains.txt 
+3.) Third run webserver.sh which will find alive hosts with help of httpx and put them into livedomains.txt 
 
-4.)Fourth run recon.sh which will enumerate resolveddomains.txt and find alive hosts with httpx and creating an file called webservers.txt
+4.) Fourth run recon.sh which will enumerate resolveddomains.txt and find alive hosts with httpx and creating an file called webservers.txt
 
-5.)Fifth and Sixth you can run simultenously enpdpoint.sh will help you get new params and intresting stuff.
+5.) Fifth and Sixth you can run simultenously enpdpoint.sh will help you get new params and intresting stuff.
 
 Aquatone.sh will help you to get visual inspection of target, all the endpoint.sh target will go through aquatone.sh
 
